@@ -2,13 +2,15 @@
 
 Hemos creado un registro de cambios para que nuestros usuarios puedan saber lo que estamos haciendo y a donde queremos llegar. Gracias por ser parte de ComisionApp.
 
-Visita [ComisionApp](https://www.comision.app), y dejanos tus comentarios para mejorar.
+Visita [ComisionApp](https://www.comision.app) y dejanos tus comentarios para mejorar.
+
 
 ## Work in process
 
 - Comisiones prestablecidas por servicios ej. Gumroad, Patreon entre otros
 - Mejora en la interfaz de usuario y la accesibilidad de la app
 - Recopilación de feedback y solicitudes
+
 
 ## Unrelaesed
 
@@ -41,6 +43,7 @@ Visita [ComisionApp](https://www.comision.app), y dejanos tus comentarios para m
 - Se termina el sitio en HTML y CSS
 - Se integra el JavaScript al sitio en vivo
 
+
 ## 18.08.2023 - Versión 0.1.4
 
 ### Added
@@ -53,6 +56,7 @@ Visita [ComisionApp](https://www.comision.app), y dejanos tus comentarios para m
 - Eliminación de prototipo en Carrd.co (su trabajo finalizo con exito)
 - Se desactiva función de mostrar resultado comisión para simplificar vista
 
+
 ## 17.08.2023 - Versión 0.1.4
 
 ### Fixed
@@ -63,6 +67,7 @@ Visita [ComisionApp](https://www.comision.app), y dejanos tus comentarios para m
 ### Creation
 
 - Creación de branding para marco de trabajo en el anuncio de la app
+
 
 ## 16.08.2023 - Versión 0.1.4
 
@@ -75,6 +80,7 @@ Visita [ComisionApp](https://www.comision.app), y dejanos tus comentarios para m
 ### Creation
 
 - Creación de logo para favicon del sitio (a nacido el logo de ComisionApp)
+
 
 ## 15.08.2023 - Versión 0.1.3
 
@@ -92,6 +98,7 @@ Visita [ComisionApp](https://www.comision.app), y dejanos tus comentarios para m
 
 - Se eliminan imagenes y contenido innecesario, se pone foco en la calculadora
 
+
 ## 13.08.2023 - Versión 0.0.3
 
 ### Added
@@ -106,6 +113,7 @@ Visita [ComisionApp](https://www.comision.app), y dejanos tus comentarios para m
 
 - Prueba de la calculadora en localhost
 
+
 ## 12.08.2023 - Versión 0.0.2
 
 ### Creation
@@ -116,11 +124,23 @@ Visita [ComisionApp](https://www.comision.app), y dejanos tus comentarios para m
 
 - Testeo inicial de prototipo en Figma con familia y amigos
 
+
 ## 10.08.2023 - Versión 0.0.1
 
 ### Born idea
 
 - Evaluación de mercado y creación de prototipo base en Figma
+
+
+
+
+
+
+
+
+
+
+
 
 
 
