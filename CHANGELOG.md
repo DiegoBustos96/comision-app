@@ -27,7 +27,7 @@ Visita [ComisionApp](https://www.comision.app) y dejanos tus comentarios para me
 - Creación de plugin para integración con diversos CRMs
 
 
-## 19.08.2023 - Versión 0.1.4
+## 19.08.2023 - Versión 0.5.5
 
 ### Added
 
@@ -44,7 +44,7 @@ Visita [ComisionApp](https://www.comision.app) y dejanos tus comentarios para me
 - Se integra el JavaScript al sitio en vivo
 
 
-## 18.08.2023 - Versión 0.1.4
+## 18.08.2023 - Versión 0.3.5
 
 ### Added
 
@@ -57,7 +57,7 @@ Visita [ComisionApp](https://www.comision.app) y dejanos tus comentarios para me
 - Se desactiva función de mostrar resultado comisión para simplificar vista
 
 
-## 17.08.2023 - Versión 0.1.4
+## 17.08.2023 - Versión 0.2.4
 
 ### Fixed
 
