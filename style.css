@@ -250,14 +250,11 @@ a {
 
     .contenedor4 {
         margin: 0;
+        flex-direction: column-reverse;
     }
 
     .divisor {
         padding: 0 1.75rem 0 1.75rem;
-    }
-
-        .contenedor4 {
-        flex-direction: column;
     }
 
     .smaller {
