@@ -52,10 +52,26 @@ small {
     padding: 1.125rem 0 1.125rem 0;
 }
 
+/* SE APLICA OPACIDAD A LA CLASE SIMBOLO PARA CAMBIAR SU ESTADO BASE */
 .simbolo {
     color: #0F172A;
     font-size: 1.125rem;
     font-weight: 600;
+    opacity: 0.3;
+}
+
+/*AL SELECTOR  ::placeholder SE LE ESTABLECE EL COLOR DEL TEXTO Y SE ESTABLECE LA OPACIDAD EN 0.3.*/
+
+::placeholder {
+    color: #0F172A;
+    opacity: 0.3;
+}
+
+
+
+/*LA REGLA CSS INPUT:NOT(:PLACEHOLDER-SHOWN)+LABEL ESTÁ SELECCIONANDO UN ELEMENTO DE ETIQUETA QUE SIGUE INMEDIATAMENTE A UN ELEMENTO DE ENTRADA QUE NO TIENE UN LUGAR RESERVADO MOSTRADO. */
+input:not(:placeholder-shown)+label {
+    opacity: 1;
 }
 
 .contenedor {
@@ -112,7 +128,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 
-
+/* LA CLASE .INPUT-ON Y "INPUT-OFF" ESTÁ CONFIGURANDO LA PROPIEDAD FLEX-DIRECTION EN "ROW-REVERSE". ESTO SIGNIFICA QUE LOS ELEMENTOS FLEXIBLES DEL CONTENEDOR SE MOSTRARAR EN FILA, PERO EN ORDEN INVERSO. */
 .input-off {
     border-bottom: 1px solid #D7D7DB;
     margin-top: 0.75rem;
@@ -121,6 +137,7 @@ input[type=number]::-webkit-outer-spin-button {
     align-items: flex-end;
     justify-content: space-between;
     padding: 11px;
+    flex-direction: row-reverse;
 }
 
 
@@ -132,6 +149,7 @@ input[type=number]::-webkit-outer-spin-button {
     align-items: flex-end;
     justify-content: space-between;
     padding: 11px;
+    flex-direction: row-reverse;
 
 }
 
