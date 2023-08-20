@@ -19,20 +19,26 @@ Visita [ComisionApp](https://www.comision.app) y dejanos tus comentarios para me
 - Selección de divisas para monedas internacionales
 - Conversión de divisas para cálculos más precisos
 - IVA como nuevo campo y opción para añadir campos al calculo
-- Perfiles para la creación y almacenamiento de comisiones personalizadas
+- Perfiles para la creación y almacenamiento de comisiones personalizadas :PRO
 - Aplicaciones nativas para Android e iOS
-- Desglose de información, importación y exportación de datos
-- WordPress plugin para cálculos de ventas y necesidades generales
-- Compartir entre perfiles hojas de comisión preestablecidas por un administrador
-- Creación de plugin para integración con diversos CRMs
+- Desglose de información, importación y exportación de datos :PRO
+- WordPress plugin para cálculos de ventas y necesidades generales :PRO
+- Compartir entre perfiles hojas de comisión preestablecidas por un administrador :PRO
+- Creación de plugin para integración con diversos CRMs :PRO
 
+
+## 20.08.2023 - Versión 0.5.6
+
+### Fixed
+
+- Ahora los simbolos reacciónan al placeholder
+- Se arreglo un problema conocido con los <label>
 
 ## 19.08.2023 - Versión 0.5.5
 
 ### Added
 
 - En vivo el sitio comision.app (sin anunciar)
-- v1.1 French translation.
 
 ### Creation
 
