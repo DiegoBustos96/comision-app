@@ -70,25 +70,32 @@
                     <div>
                         <p><small>Ingresa la comisión:</small></p>
                         <div class="input-on">
-                            <p class="simbolo">%</p><input onkeyup="mostrarComision()" inputmode="decimal" id="comision" oninput="this.value = this.value.replace(/[^0-9.,]/g, '').replace(/(\..*)\./g, '$1'); this.value = this.value.replace(/,/g, '.');" placeholder="19">
+                            <!-- SE AGREGA LA ETIQUETA <LABEL> PARA QUE INTERACTÚEN CON LOS <INPUT> Y ASÍ REALIZAR EL CAMBIO DE OPACIDAD A LOS SÍMBOLOS  -->
+                            <input name="uno" placeholder="19" onkeyup="mostrarComision()" inputmode="decimal"
+                                id="comision"
+                                oninput="this.value = this.value.replace(/[^0-9.,]/g, '').replace(/(\..*)\./g, '$1'); this.value = this.value.replace(/,/g, '.');">
+                            <label for="uno" class="simbolo">%</label>
                         </div>
                     </div>
                     <div>
                         <p><small>Ingresa el monto:</small>
                         <div class="input-on">
-                            <p class="simbolo">$</p><input onkeyup="mostrarComision()"inputmode="decimal" id="monto" oninput="this.value = this.value.replace(/[^0-9.,]/g, '').replace(/(\..*)\./g, '$1'); this.value = this.value.replace(/,/g, '.');" placeholder="95000">
+                            <input name="dos" onkeyup="mostrarComision()" inputmode="decimal" id="monto" oninput="this.value = this.value.replace(/[^0-9.,]/g, '').replace(/(\..*)\./g, '$1'); this.value = this.value.replace(/,/g, '.');" placeholder="95000">
+                            <label for="dos" class="simbolo">$</label>
                         </div>
                     </div>
                     <div>
                         <p><small>Monto con descuento:</small></p>
                         <div class="input-off">
-                            <p class="simbolo">$</p><input type="number" id="montoDescuento" placeholder="76950" readonly>
+                            <input name="tres" type="number" id="montoDescuento" placeholder="76950" readonly>
+                            <label for="tres" class="simbolo">$</label>
                         </div>
                     </div>
                     <div>
                         <p><small>Monto como objetivo:</small></p>
                         <div class="input-off">
-                            <p class="simbolo">$</p><input type="number" id="montoObjetivo" placeholder="117284" readonly>
+                            <input name="cuatro" type="number" id="montoObjetivo" placeholder="117284" readonly>
+                            <label for="cuatro" class="simbolo">$</label>
                         </div>
                     </div>
 
