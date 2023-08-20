@@ -37,6 +37,7 @@ Visita [ComisionApp](https://www.comision.app) y dejanos tus comentarios para me
 
 - Ahora los simbolos reacciónan al placeholder
 - Se arreglo un problema conocido con los label
+- Nuevo favicon e icono general
 
 ### Removed
 
