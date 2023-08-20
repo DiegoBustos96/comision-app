@@ -32,7 +32,7 @@ Visita [ComisionApp](https://www.comision.app) y dejanos tus comentarios para me
 ### Fixed
 
 - Ahora los simbolos reacciónan al placeholder
-- Se arreglo un problema conocido con los <label>
+- Se arreglo un problema conocido con los label
 
 ## 19.08.2023 - Versión 0.5.5
 
