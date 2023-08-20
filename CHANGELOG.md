@@ -29,10 +29,18 @@ Visita [ComisionApp](https://www.comision.app) y dejanos tus comentarios para me
 
 ## 20.08.2023 - Versión 0.5.6
 
+### Added
+
+- Propiedad :placeholder-shown
+
 ### Fixed
 
 - Ahora los simbolos reacciónan al placeholder
 - Se arreglo un problema conocido con los label
+
+### Removed
+
+- Se elimina Github pages
 
 ## 19.08.2023 - Versión 0.5.5
 
