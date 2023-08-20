@@ -31,6 +31,7 @@ Visita [ComisionApp](https://www.comision.app) y dejanos tus comentarios para me
 
 ### Added
 
+- Nuevos label para mejor control
 - Propiedad :placeholder-shown
 
 ### Fixed
