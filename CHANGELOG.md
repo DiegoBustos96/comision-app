@@ -26,6 +26,16 @@ Visita [ComisionApp](https://www.comision.app) y dejanos tus comentarios para me
 - Compartir entre perfiles hojas de comisión preestablecidas por un administrador :PRO
 - Creación de plugin para integración con diversos CRMs :PRO
 
+## 29.08.2023 - Versión 0.7.6
+
+###Added
+
+- New logo
+- New favicon
+
+## 26.08.2023 - Versión 0.6.7
+
+FALTA POR AGREGAR
 
 ## 20.08.2023 - Versión 0.5.6
 
