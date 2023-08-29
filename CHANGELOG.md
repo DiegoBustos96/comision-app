@@ -28,7 +28,7 @@ Visita [ComisionApp](https://www.comision.app) y dejanos tus comentarios para me
 
 ## 29.08.2023 - Versión 0.7.6
 
-###Added
+### Added
 
 - New logo
 - New favicon
